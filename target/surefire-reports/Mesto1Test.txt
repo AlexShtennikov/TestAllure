@@ -1,8 +1,8 @@
 -------------------------------------------------------------------------------
 Test set: Mesto1Test
 -------------------------------------------------------------------------------
-Tests run: 3, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 7.256 s <<< FAILURE! - in Mesto1Test
-checkUserName(Mesto1Test)  Time elapsed: 3.784 s  <<< FAILURE!
+Tests run: 3, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 18.472 s <<< FAILURE! - in Mesto1Test
+checkUserName(Mesto1Test)  Time elapsed: 11.033 s  <<< FAILURE!
 java.lang.AssertionError: 
 1 expectation failed.
 JSON path data.name doesn't match.
